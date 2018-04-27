@@ -1,1 +1,1 @@
-""" helpers para os handlers"""
+""" h e l p e r s   p a r a   o s   h a n d l e r s """

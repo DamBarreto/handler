@@ -2,8 +2,11 @@ import numpy as np
 import pandas as pd
 import mimetypes
 
+
+""" h a n d l e r s  """
+
 class PandasHandler:
-    """ Abre arquivos ('csv','xls') para analise de dados """
+    """ Abre arquivos ('csv','xls') para analise de dados com Pandas """
 
     def get_dataset(self, dataset):
         """ Informa qual o dataset a ser trabalhado """
